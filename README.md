@@ -1,3 +1,3 @@
 # PRODIGY_DS_02
 
-I am performing task 2 on titanic dataset 
+This is my second task as a Data Science Intern at Prodigy Infotech
